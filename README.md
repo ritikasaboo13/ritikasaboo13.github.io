@@ -1,2 +1,2 @@
-# RounakSen225.github.io
+# VirajParikh.github.io
 Personal website
