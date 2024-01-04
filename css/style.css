@@ -390,7 +390,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: -moz-inline-stack;
   display: inline-block;
   zoom: 1;
-  *display: inline;
+  display: inline;
   color: #fff;
   background: #2F3C4F;
   padding: 10px 10px 2px 10px;
@@ -1117,8 +1117,8 @@ input[type="text"] {
   border: 2px solid rgba(87, 6, 140, 1);
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #ff9b1a !important;
-  border-color: #ff9b1a !important;
+  background: rgba(87, 6, 140, 1) !important;
+  border-color: rgba(87, 6, 140, 1) !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
@@ -1169,21 +1169,21 @@ input[type="text"] {
 }
 
 .btn-warning {
-  background: #f0ad4e;
+  background: rgba(87, 6, 140, 1);
   color: #fff;
-  border: 2px solid #f0ad4e;
+  border: 2px solid rgba(87, 6, 140, 1);
 }
 .btn-warning:hover, .btn-warning:focus, .btn-warning:active {
-  background: #eea236 !important;
-  border-color: #eea236 !important;
+  background: rgba(87, 6, 140, 1) !important;
+  border-color: rgba(87, 6, 140, 1)#eea236 !important;
 }
 .btn-warning.btn-outline {
   background: transparent;
-  color: #f0ad4e;
-  border: 2px solid #f0ad4e;
+  color: rgba(87, 6, 140, 1);
+  border: 2px solid rgba(87, 6, 140, 1);
 }
 .btn-warning.btn-outline:hover, .btn-warning.btn-outline:focus, .btn-warning.btn-outline:active {
-  background: #f0ad4e;
+  background: rgba(87, 6, 140, 1);
   color: #fff;
 }
 
