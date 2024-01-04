@@ -47,13 +47,13 @@ body {
 }
 
 a {
-  color: #FF9000;
+  color: rgba(87, 6, 140, 1);
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #FF9000;
+  color: rgba(87, 6, 140, 1);
   outline: none;
   text-decoration: none;
 }
@@ -71,17 +71,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #FF9000;
+  background: rgba(87, 6, 140, 1);
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #FF9000;
+  background: rgba(87, 6, 140, 1);
 }
 
 ::selection {
   color: #fff;
-  background: #FF9000;
+  background: rgba(87, 6, 140, 1);
 }
 
 #fh5co-header,
@@ -222,7 +222,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-features {
-  background: #FF9000;
+  background: rgba(87, 6, 140, 1);
 }
 #fh5co-features h2 {
   color: #fff;
@@ -257,7 +257,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: table-cell;
   vertical-align: middle;
   height: 100px;
-  color: #FF9000 !important;
+  color: rgba(87, 6, 140, 1) !important;
 }
 #fh5co-features .feature-left .feature-copy {
   width: 100%;
