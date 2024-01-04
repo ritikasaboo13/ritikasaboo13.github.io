@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5, h6, figure {
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgb(155, 106, 188);
+  background: rgba(155, 106, 188, 1);
 }
 
 #fh5co-header .display-t,
@@ -405,7 +405,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background: #FF9000;
 }
 
-.fh5co-heading {
+.fh5co-bg-dark {
   margin-bottom: 5em;
 }
 .fh5co-heading.fh5co-heading-sm {
