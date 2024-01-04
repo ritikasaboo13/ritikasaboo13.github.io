@@ -100,7 +100,8 @@ h1, h2, h3, h4, h5, h6, figure {
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(155, 106, 188, 1);
+  background: rgba(87, 6, 140, 1);
+  background-color: transparent;
 }
 
 #fh5co-header .display-t,
