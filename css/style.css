@@ -311,7 +311,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background: #2F3C4F;
   background: rgba(87, 6, 140, 1);
 }
-.fh5co-bg-dark .fh5co-heading .fh5co-heading-dark h2 {
+.fh5co-bg-dark .fh5co-heading h2 {
   color: #fff !important;
 }
 
@@ -409,10 +409,10 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-bg-dark {
   margin-bottom: 5em;
 }
-.fh5co-heading.fh5co-heading-sm .fh5co-heading-dark.fh5co-heading-dark-sm{
+.fh5co-heading.fh5co-heading-sm {
   margin-bottom: 2em;
 }
-.fh5co-heading .fh5co-heading-dark h2 {
+.fh5co-heading h2 {
   font-size: 40px;
   margin-bottom: 30px;
   line-height: 1.5;
@@ -429,7 +429,7 @@ h1, h2, h3, h4, h5, h6, figure {
   line-height: 1.5;
   color: #828282;
 }
-.fh5co-heading .fh5co-heading-dark span {
+.fh5co-heading span {
   display: block;
   margin-bottom: 10px;
   text-transform: uppercase;
@@ -794,14 +794,14 @@ h1, h2, h3, h4, h5, h6, figure {
   float: left;
   width: 100%;
 }
-#fh5co-started .fh5co-heading .fh5co-heading-dark{
+#fh5co-started .fh5co-heading{
   margin-bottom: 0;
 }
-#fh5co-started .fh5co-heading .fh5co-heading-dark h2 {
+#fh5co-started .fh5co-heading h2 {
   color: #fff;
   margin-bottom: 20px !important;
 }
-#fh5co-started .fh5co-heading .fh5co-heading-dark p {
+#fh5co-started .fh5co-heading p {
   color: rgba(255, 255, 255, 0.8);
 }
 #fh5co-started .btn {
